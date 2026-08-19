@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 # Interrupcion de un Hilo
 En ocaciones puede ser necesario finalizar un hilo para terminar el programa o cuando un usuario del programa desea cancelar las tareas que esta realizando un objeto del hilo.
-=======
-# Interrupcion de un Hilo
-En ocaciones puede ser necesario finalizar un hilo para terminar el programa o cuando un usuario del programa desea cancelar las tareas que esta realizando un objeto del hilo.
->>>>>>> origin/master
 Java proporciona un mecanismo de interrupcion que indica a un hilo que se desea finalizarlo, este mecanismo debe comprobar si los hilos han sido interrumpidos o no, y pueden decidir si responder o no a la solicitud de finalizacion, un ojeto hilo puede ignorarla y continuar con su ejecucion.
